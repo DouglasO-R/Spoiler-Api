@@ -1,0 +1,8 @@
+2021-11-04T19:18:00.239Z : [log-api] : info : started at port 9000
+2021-11-04T19:38:20.416Z : [log-api] : info : started at port 9000
+2021-11-04T19:39:20.536Z : [log-api] : info : started at port 9000
+2021-11-04T19:40:19.661Z : [log-api] : info : status: 304 - method: GET - baseUrl: /api/spoiler - url: /
+2021-11-04T19:40:49.340Z : [log-api] : info : status: 201 - method: POST - baseUrl: /api/spoiler - url: /
+2021-11-04T19:40:49.408Z : [log-api] : info : status: 200 - method: GET - baseUrl: /api/spoiler - url: /
+2021-11-04T19:42:00.568Z : [log-api] : info : started at port 9000
+2021-11-04T19:42:25.456Z : [log-api] : info : started at port 9000
